@@ -1,0 +1,19 @@
+{
+  "status_code": 0,
+  "data": {
+    "item_id": "7561234567890123456",
+    "statistics": {
+      "play_count": 1100,
+      "finish_rate": "32%",
+      "avg_duration_sec": 24.5,
+      "fans_increment": 7,
+      "play_5s_rate": 0.72,
+      "bounce_2s_rate": 0.14,
+      "cover_ctr": 0.05,
+      "profile_visits": 60
+    },
+    "unmapped_platform_field": 123,
+    "access_token": "fixture-secret-must-be-removed",
+    "cover": "https://example.invalid/a.jpg?token=fixture-secret&width=200"
+  }
+}

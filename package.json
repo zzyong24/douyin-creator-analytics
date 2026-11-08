@@ -1,0 +1,20 @@
+{
+  "name": "douyin-creator-analytics",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "login": "node src/cli.mjs login",
+    "collect": "node src/cli.mjs collect",
+    "report": "node src/cli.mjs report",
+    "test": "node --test tests/*.test.mjs",
+    "validate": "node src/validate.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "1.60.0"
+  },
+  "license": "MIT"
+}

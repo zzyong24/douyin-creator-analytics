@@ -1,0 +1,26 @@
+{
+  "status_code": 0,
+  "data": {
+    "has_more": false,
+    "total": 2,
+    "aweme_list": [
+      {
+        "aweme_id": "7561234567890123456",
+        "title": "AI 工作流",
+        "desc": "AI 工作流\n第二行说明",
+        "create_time": 1794009600,
+        "aweme_type": 0,
+        "author": { "nickname": "测试账号", "uid": "10001" },
+        "video": { "duration": 61500, "cover": { "url_list": ["https://example.invalid/cover.jpg"] } },
+        "statistics": { "play_count": 1000, "digg_count": 50, "comment_count": 0, "share_count": 12, "collect_count": 8 }
+      },
+      {
+        "aweme_id": "7561234567890123457",
+        "desc": "先写清楚问题\n完整正文不丢失",
+        "create_time": 1794096000,
+        "aweme_type": 68,
+        "stats": { "play": "200", "like_count": "5", "comment": 1, "share": 0 }
+      }
+    ]
+  }
+}
